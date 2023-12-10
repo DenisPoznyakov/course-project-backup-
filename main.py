@@ -3,8 +3,8 @@ from pprint import pprint
 import os
 import json
 
-TOKEN_VK = 'vk1.a.EsVK4t3jGAAYz1i84jpMnj0DuPN-GQ6j77mK9jXIx4fvl0YOt9We6I_dlXYa0JHrtsafkz5SQXxdzb6akBeWi3SoePAXiVamT3QtitVmOefahsLt9yIukTxpMu25X6a1KcjWsre_ZUNlbglJlFwT1_w7AQjRDBapsEqXpauo-Nu7CTSlEc8qScGnqr4DXG1fEZmO6L1EZ46nYtVyQPzWQA'
-TOKEN_YA = 'OAuth y0_AgAAAAAbF_21AADLWwAAAADyrrtr6Xg3WBLMSjqjbfp_kikw3TPLVbs'
+TOKEN_VK = ''
+TOKEN_YA = ''
 
 def create_json():
     json_data = [
